@@ -1,0 +1,75 @@
+{
+  "contacts": [
+    {
+      "phone": "+919876543210",
+      "name": "Amma",
+      "relationship": "Mother",
+      "category": "FAMILY",
+      "priority": "HIGH",
+      "notes": "Close relative / Mother of Sudheer"
+    },
+    {
+      "phone": "+919876543211",
+      "name": "Nanna",
+      "relationship": "Father",
+      "category": "FAMILY",
+      "priority": "HIGH",
+      "notes": "Close relative / Father of Sudheer"
+    },
+    {
+      "phone": "+919876543212",
+      "name": "Sita",
+      "relationship": "Sister",
+      "category": "FAMILY",
+      "priority": "HIGH",
+      "notes": "Close relative / Sister"
+    },
+    {
+      "phone": "+919123456780",
+      "name": "Venkat",
+      "relationship": "Friend",
+      "category": "FRIEND",
+      "priority": "MEDIUM",
+      "notes": "College friend and project collaborator"
+    },
+    {
+      "phone": "+919123456781",
+      "name": "Rishi",
+      "relationship": "Friend",
+      "category": "FRIEND",
+      "priority": "MEDIUM",
+      "notes": "Close friend & tech team member"
+    },
+    {
+      "phone": "+919800112233",
+      "name": "Swiggy Delivery Partner",
+      "relationship": "Delivery",
+      "category": "DELIVERY",
+      "priority": "MEDIUM",
+      "notes": "Food/Grocery delivery service"
+    },
+    {
+      "phone": "+919800112234",
+      "name": "Amazon Delivery Agent",
+      "relationship": "Delivery",
+      "category": "DELIVERY",
+      "priority": "MEDIUM",
+      "notes": "Courier & package delivery service"
+    },
+    {
+      "phone": "+919800112235",
+      "name": "Zomato Valet",
+      "relationship": "Delivery",
+      "category": "DELIVERY",
+      "priority": "MEDIUM",
+      "notes": "Food delivery service"
+    }
+  ],
+  "owner": {
+    "name": "Sudheer",
+    "title": "Boss",
+    "primary_language": "Telugu",
+    "secondary_language": "English",
+    "busy_status": "currently busy in a high-priority meeting"
+  }
+}
